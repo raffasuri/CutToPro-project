@@ -1,0 +1,18 @@
+Measurement : Å											
+Device : DataPhysics OCA - Series											
+Customer : DataPhysics											
+Sample : Not Defined											
+Operator : Ruben											
+Remarks : DataPhysics											
+											
+Run-Num.	Volume	Drop	Type	Error	Theta(M)	Base Diameter	Solid	Mag-factor	IFT	Comment	Age
+1	3,38768	Water	SD	0,19	80,4	2,5618		170,11	128,33		339142
+2	3,57247	Water	SD	0,21	81,2	2,5937		170,11	113,08		592422
+3	3,34779	Water	SD	0,07	80,3	2,5542		170,11	126,47		637542
+4	3,16171	Water	SD	0,12	80,5	2,5055		170,11	104,12		708382
+5	3,28057	Water	SD	0,18	82,1	2,5043		170,11	99,35		744542
+6	3,32362	Water	SD	0,14	82,5	2,5063		170,11	107,07		792342
+7	3,43968	Water	SD	0,08	81,8	2,5522		170,11	100,76		828822
+8	3,25823	Water	SD	0,08	81,3	2,5129		170,11	113,06		858342
+9	3,33929	Water	SD	0,08	82,2	2,5234		170,11	80,04		1262262
+10	3,32122	Water	SD	0,07	81,5	2,5312		170,11	84,62		1297502
